@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name stc_diyclock-rescue)(type Legacy)(uri ${KIPRJMOD}/stc_diyclock-rescue.lib)(options "")(descr ""))
+)
