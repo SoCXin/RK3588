@@ -1,23 +1,23 @@
-﻿# [STC15](https://github.com/sochub/STC15) 
+﻿# [STC15W408](https://github.com/SoCXin/STC15W408)
 
-[![sites](SoC/SoC.png)](http://www.qitas.cn) 
-#### 父级：[STC](https://github.com/sochub/STC)
-#### 架构：[8051](https://github.com/sochub/STM8)
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-## [描述](https://github.com/sochub/STC15/wiki) 
+#### [Vendor](https://github.com/SoCXin/Vendor)：[STC](https://github.com/SoCXin/STC)
+#### [Core](https://github.com/SoCXin/8051)：[8051](https://github.com/SoCXin/8051)
+#### [Level](https://github.com/SoCXin/Level)：11MHz
+
+## [描述](https://github.com/SoCXin/STC15W408)
+
+[STC15W408](https://github.com/SoCXin/STC15W408)
 
 
-### [资源收录](https://github.com/sochub/STC15)
+### [资源收录](https://github.com/SoCXin/STC15W408)
 
 * [文档](docs/)
 * [资源](src/)
-* [工程](project/)
 
-### [收录产品型号](https://github.com/sochub/STC15)
+### [选型建议](https://github.com/SoCXin)
 
+[STC15W408](https://github.com/SoCXin/STC15W408)
 
-### [选型建议](https://github.com/sochub/STC15)
-
-
-##  [SoC资源平台](http://www.qitas.cn)  
-
+###  [SoC芯平台](http://www.SoC.Xin)
