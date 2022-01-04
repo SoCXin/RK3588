@@ -1,23 +1,33 @@
-﻿# [STC15W408](https://github.com/SoCXin/STC15W408)
+﻿# [RK3588](https://github.com/SoCXin/RK3588)
 
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-#### [Vendor](https://github.com/SoCXin/Vendor)：[STC](https://github.com/SoCXin/STC)
-#### [Core](https://github.com/SoCXin/8051)：[8051](https://github.com/SoCXin/8051)
-#### [Level](https://github.com/SoCXin/Level)：11MHz
+* [Rockchips](https://www.rock-chips.com/): [Cortex-A76](https://github.com/SoCXin/Cortex)
+* [L6R5](https://github.com/SoCXin/Level): 2.0 GHz
+* [Xin文档](https://docs.soc.xin/RK3588)
 
-## [描述](https://github.com/SoCXin/STC15W408)
-
-[STC15W408](https://github.com/SoCXin/STC15W408)
+## [简介](https://github.com/SoCXin/RK3588/wiki)
 
 
-### [资源收录](https://github.com/SoCXin/STC15W408)
+[![sites](docs/RK3588.jpg)](https://www.rock-chips.com/a/cn/product/index.html)
 
-* [文档](docs/)
-* [资源](src/)
+
+### 关键特性
+
+* 8nm Cortex-A76 Dual Core
+* Cortex-A55 Dual Core
+* 6 TOPS NPU
+
+
+### [资源收录](https://github.com/SoCXin)
+
+* [参考资源](src/)
+* [参考文档](docs/)
+* [参考工程](project/)
+
 
 ### [选型建议](https://github.com/SoCXin)
 
-[STC15W408](https://github.com/SoCXin/STC15W408)
 
-###  [SoC芯平台](http://www.SoC.Xin)
+
+### [探索芯世界 www.SoC.xin](http://www.SoC.Xin)
